@@ -6,5 +6,6 @@ A man from Japan have just arrived at the San Francisco Airport. He meets a lot 
 
 ## Cast
 
-Japanese man: Ken Watanabe
-Comedian: Will Smith
+Japanese man: Kaichi
+Comedian: Juan
+Pilot: TJ
